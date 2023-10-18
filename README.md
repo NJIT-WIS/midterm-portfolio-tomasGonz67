@@ -106,10 +106,11 @@ The site’s visual appearance will be evaluated on whether or not the design lo
 2. **Hosting Your Site**
    - Host your site using GitHub Pages.
    - Set the main branch as the source for your GitHub Pages.
+   - Put a link to it on the readme.
 
 3. **Figma Screenshot**
    - Export a full-size image of your site design from Figma.
-   - Add this image to your repository's README.
+   - Add this image to your repository's README.  This image will be used to check your design implementation.
 
 4. **Submitting on Canvas**
    - Provide the link to your live website and the link to your GitHub repository in Canvas.
