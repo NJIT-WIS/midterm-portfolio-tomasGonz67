@@ -1,6 +1,6 @@
 # Midterm Webdev 1
 
-# Videos and Reference starter project: [https://github.com/kaw393939/webdev1project](here)
+# Videos and Reference starter project Reference - [https://github.com/kaw393939/webdev1project/tree/master](Click Here)
 
 ## Introduction
 For this midterm project, you are tasked with crafting a professional landing page and at least one additional page that is suitable for both desktop and mobile devices. By completing this mid-term you will learn the basics of project management, product design, quality assurance, and technical implementation. Ensure that you do not include any private information, such as address, phone, or email. LinkedIn will be your main means of contact, while your GitHub account will host your showcased projects issues / code / etc.
